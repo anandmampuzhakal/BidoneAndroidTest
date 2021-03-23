@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bidone Android Test</string>
+    <string name="let_s_get_started">Let\'s get started</string>
+    <string name="by_anand_m_joseph">By Anand M Joseph</string>
+    <string name="order_description">Order Description : </string>
+    <string name="order_date">Order Date : </string>
+    <string name="delivery_date">Delivery Date : </string>
+    <string name="show_products">Show Products</string>
+    <string name="hide_products">Hide Products</string>
+    <string name="product_code">Product Code :</string>
+    <string name="description">Description :</string>
+    <string name="brand">Brand :</string>
+    <string name="price">Price :</string>
+    <string name="total_amount">Total Amount :</string>
+</resources>

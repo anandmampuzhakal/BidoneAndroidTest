@@ -1,0 +1,4 @@
+include ':mvvmlibrary'
+include ':app'
+project(':mvvmlibrary').projectDir = new File(rootDir, 'libraries/mvvmlibrary/')
+rootProject.name = "Bidone Android Test"
